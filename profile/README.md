@@ -10,5 +10,5 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 
 **Kontributori:**
 <hr>
-[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/orgs/Infinity-Vault/people)
+[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)] (https://github.com/orgs/Infinity-Vault/people)
 <hr>
