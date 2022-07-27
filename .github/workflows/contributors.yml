@@ -4,7 +4,7 @@
   uses: BobAnkh/add-contributors@v0.2.2
   with:
     # The name of the repo: user/repo_name
-    REPO_NAME: # optional, default is 
+    REPO_NAME: https://github.com/HarisKordic/Tennis-game # optional, default is 
     # Where you want to add contributors
     CONTRIBUTOR: # optional, default is ### Contributors
     # Number of contributors per row
