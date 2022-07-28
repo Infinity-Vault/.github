@@ -11,7 +11,7 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 **Kontributori:**
 <hr>
 
-[![](https://github.com/remarkablemark.png?size=50)](https://github.com/remarkablemark)
+[![](https://avatars.githubusercontent.com/u/58472052?s=96&v=4)](https://github.com/remarkablemark)
 
 <hr>
 
