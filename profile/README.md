@@ -12,7 +12,7 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 <hr>
 
 [![](https://avatars.githubusercontent.com/u/58472052?s=96&v=4)](https://github.com/AdivonSlav) 
-
+<br>
 
 [![](https://avatars.githubusercontent.com/u/76576193?s=64&v=4](https://github.com/AmigosLP)
 
