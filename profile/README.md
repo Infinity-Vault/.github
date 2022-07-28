@@ -23,4 +23,6 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 ![Discord Banner 4](https://discordapp.com/api/guilds/787773373748740128/widget.png?style=banner4)
 
 
+[![](https://badgen.net/https/infinity-vault-traffic-collector-g53qr72yy0u6.runkit.sh)](https://github.com/AdivonSlav) 
+
 <hr>
