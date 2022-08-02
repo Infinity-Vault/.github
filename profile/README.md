@@ -21,5 +21,5 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 <hr>
 
 ![Discord Banner 4](https://discordapp.com/api/guilds/787773373748740128/widget.png?style=banner4)
-
+ 
 <hr>
