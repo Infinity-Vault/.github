@@ -5,9 +5,9 @@
 <h1>O nama:</h1>
 
 <hr>
-<p>Svrha ove organizacije jeste da na jednom mjestu pruzimo "zbirku" izvora za ucenje, postavki ispitnih zadataka kao i rijesenja istih. Otvoreni smo za kontribuciju sa svima, te ukoliko imate rijesenje koje je prihvatljivije/jednostavnije/ispravnije od vec postavljenog, ohrabrujemo Vas da napravite pull request 😀.
+<h2>Svrha ove organizacije jeste da na jednom mjestu pruzimo "zbirku" izvora za ucenje, postavki ispitnih zadataka kao i rijesenja istih. Otvoreni smo za kontribuciju sa svima, te ukoliko imate rijesenje koje je prihvatljivije/jednostavnije/ispravnije od vec postavljenog, ohrabrujemo Vas da napravite pull request 😀.
 
-Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primjetite neke nepravilnosti bilo koje vrste (greske u rijesenjima, postavkama, izvorima i sl.).</p>
+Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primjetite neke nepravilnosti bilo koje vrste (greske u rijesenjima, postavkama, izvorima i sl.).</h2>
 <hr>
 
 <h1>Linkovi za repozitorije:</h1>
@@ -15,7 +15,7 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 <hr>
 
 
-[Programiranje I](https://github.com/Infinity-Vault/Programiranje-I)
+<h2>[Programiranje I](https://github.com/Infinity-Vault/Programiranje-I)
 
 [Programiranje II](https://github.com/Infinity-Vault/Programiranje-II)
 
@@ -37,6 +37,7 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 
 [Primjenjena statistika](https://github.com/Infinity-Vault/Primijenjena-statistika)
 
+</h2>
 <hr>
 
 <h1>Kontributori:</h1>
