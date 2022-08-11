@@ -1,4 +1,4 @@
-**Dobrodosli**👋
+<h1>**Dobrodosli**👋</h1>
 
 [![](https://badgen.net/https/infinity-vault-traffic-collector-g53qr72yy0u6.runkit.sh)]() 
 
@@ -7,6 +7,32 @@
 Svrha ove organizacije jeste da na jednom mjestu pruzimo "zbirku" izvora za ucenje, postavki ispitnih zadataka kao i rijesenja istih. Otvoreni smo za kontribuciju sa svima, te ukoliko imate rijesenje koje je prihvatljivije/jednostavnije/ispravnije od vec postavljenog, ohrabrujemo Vas da napravite pull request 😀.
 
 Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primjetite neke nepravilnosti bilo koje vrste (greske u rijesenjima, postavkama, izvorima i sl.).
+<hr>
+
+**Linkovi za repozitorije:**
+
+<hr>
+[Programiranje I](https://github.com/Infinity-Vault/Programiranje-I)
+
+[Programiranje II](https://github.com/Infinity-Vault/Programiranje-II)
+
+[Programiranje III](https://github.com/Infinity-Vault/Programiranje-III)
+
+[Digitalna logika](https://github.com/Infinity-Vault/Digitalna-logika)
+
+[Web razvoj i dizajn](https://github.com/Infinity-Vault/WRD-Web-razvoj-i-dizajn)
+
+[Analiza i dizajn softvera](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera)
+
+[Strukture podataka i algoritmi](https://github.com/Infinity-Vault/Strukture-podataka-i-algoritmi)
+
+[Baze podataka I](https://github.com/Infinity-Vault/Baze-podataka-I)
+
+[Baze podataka II](https://github.com/Infinity-Vault/Baze-podataka-II)
+
+[Kompjuterska grafika](https://github.com/Infinity-Vault/Kompjuterska-grafika)
+
+[Primjenjena statistika](https://github.com/Infinity-Vault/Primijenjena-statistika)
 <hr>
 
 **Kontributori:**
