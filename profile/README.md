@@ -23,9 +23,9 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 
 [Programiranje III](https://github.com/Infinity-Vault/Programiranje-III)
 
-[Digitalna logika](https://github.com/Infinity-Vault/Digitalna-logika)
-
 [Web razvoj i dizajn](https://github.com/Infinity-Vault/WRD-Web-razvoj-i-dizajn)
+
+[Digitalna logika](https://github.com/Infinity-Vault/Digitalna-logika)
 
 [Analiza i dizajn softvera](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera)
 
