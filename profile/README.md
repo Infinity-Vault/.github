@@ -47,12 +47,3 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 
 [![](https://avatars.githubusercontent.com/u/58472052?s=60&v=4)](https://github.com/AdivonSlav) [![](https://avatars.githubusercontent.com/u/76576193?s=60&v=4)](https://github.com/AmigosLP) [![](https://avatars.githubusercontent.com/u/76669701?s=60&v=4)](https://github.com/BerunBiH) [![](https://avatars.githubusercontent.com/u/58373221?s=60&v=4)](https://github.com/HarisKordic) [![](https://avatars.githubusercontent.com/u/77499895?s=60&v=4)](https://github.com/R3FA) [![](https://avatars.githubusercontent.com/u/92086961?s=60&v=4)](https://github.com/RedzicMuhamed) [![](https://avatars.githubusercontent.com/u/68828360?s=60&v=4)](https://github.com/Sanjin-Pajic) [![](https://avatars.githubusercontent.com/u/89514704?s=60&v=4)](https://github.com/saranur) [![](https://avatars.githubusercontent.com/u/77838860?s=60&v=4)](https://github.com/Siocic) [![](https://avatars.githubusercontent.com/u/72450575?s=60&v=4)](https://github.com/vkerim)
 
-
-<hr>
-
-<h1>Discord</h1>
-<hr>
-
-![Discord Banner 4](https://discordapp.com/api/guilds/787773373748740128/widget.png?style=banner4)
- 
-<hr>
