@@ -39,7 +39,7 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 
 [Primjenjena statistika](https://github.com/Infinity-Vault/Primijenjena-statistika)
 
-[Razvoj softvera I]()
+[Razvoj softvera I](https://github.com/Infinity-Vault/Razvoj-softvera-I)
 
 </h3>
 <hr>
