@@ -41,6 +41,8 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 
 [Razvoj softvera I](https://github.com/Infinity-Vault/Razvoj-softvera-I)
 
+[Informacijska sigurnost] (https://github.com/Infinity-Vault/Informacijska-sigurnost)
+
 </h3>
 <hr>
 
