@@ -43,6 +43,8 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 
 [Informacijska sigurnost](https://github.com/Infinity-Vault/Informacijska-sigurnost)
 
+[Interakcija covjek-racunar](https://github.com/Infinity-Vault/Interakcija-covjek-racunar)
+
 </h3>
 <hr>
 
