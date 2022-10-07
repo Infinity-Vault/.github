@@ -45,6 +45,11 @@ Molimo Vas, kao krajnje korisnike ovih repozitorija da nam javite ukoliko primje
 
 [Interakcija covjek-racunar](https://github.com/Infinity-Vault/Interakcija-covjek-racunar)
 
+[Modeliranje poslovnih procesa](https://github.com/Infinity-Vault/Modeliranje-poslovnih-procesa)
+
+[Dizajn i razvoj IoT projekata](https://github.com/Infinity-Vault/Dizajn-i-razvoj-IoT-projekata)
+
+
 </h3>
 <hr>
 
